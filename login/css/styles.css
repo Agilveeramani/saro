@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.bgim {
+    background-image: url(../images/bgimg.webp);
+    background-size: cover;
+    background-attachment: local;
+    background-repeat: no-repeat;
+}
+.himg {
+    width: 30px;
+    height: 30px;
+}
